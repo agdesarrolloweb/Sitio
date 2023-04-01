@@ -1,2 +1,2 @@
 # Sitio
-Sitio Wen institucional
+Sitio Web institucional

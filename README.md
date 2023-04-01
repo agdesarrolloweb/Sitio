@@ -1,2 +1,0 @@
-# Sitio
-Sitio Web institucional
